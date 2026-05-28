@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+
+  <AddIn Type="Application">
+
+    <Name>AutoWorksetSwitcher2024</Name>
+
+    <Assembly>
+D:\AutoWorksetSwitcher2024\Releases\2024\x64\Release\net48\AutoWorksetSwitcher2024.dll
+    </Assembly>
+
+    <AddInId>
+8D83C886-B739-4ACD-A9DB-1BC78F315B2A
+    </AddInId>
+
+    <FullClassName>
+AutoWorksetSwitcher.App
+    </FullClassName>
+
+    <VendorId>
+AWS
+    </VendorId>
+
+    <VendorDescription>
+Auto Workset Switcher 2024
+    </VendorDescription>
+
+  </AddIn>
+
+</RevitAddIns>

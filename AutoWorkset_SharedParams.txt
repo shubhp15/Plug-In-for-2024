@@ -1,0 +1,8 @@
+# Revit Shared Parameter File — AutoWorksetSwitcher
+# AUTO-GENERATED — Do not edit manually
+*META	VERSION	MINVERSION
+META	2	1
+*GROUP	ID	NAME
+GROUP	1	AutoWorkset Parameters
+*PARAM	GUID	NAME	DATATYPE	DATACATEGORY	GROUP	VISIBLE	DESCRIPTION	USERMODIFIABLE
+PARAM	{a2b3c4d5-e6f7-8901-bcde-f12345678901}	Default_Workset	TEXT		1	1	Default active workset for this view	1
